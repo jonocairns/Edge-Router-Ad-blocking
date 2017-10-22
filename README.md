@@ -1,4 +1,4 @@
-## Overview
+## Overview ![https://www.youtube.com/watch?v=KrAwg1inp2E](A Link to the youtube)
 
 Readers will learn how to enable ad-blocking on an EdgeRouter. This how-to guide is inspired by  raspberry pi to an adblocking access-point. Here are just a few of the advantages to blocking ads on the router:
 
