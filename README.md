@@ -58,8 +58,8 @@ address=/measuremap.com/0.0.0.0
 address=/media-adrunner.mycomputer.com/0.0.0.0
 
 #### Step 4: 
-Test whether adblocking works by running 'dig @localhost measuremap.com'
- Note: To use 'dig' you need to install dnsutils using the command "apt-get install dnsutils". Alternatively you can use the command "host measuremap.com localhost"
+Test whether adblocking works by running `dig @localhost measuremap.com`
+ Note: To use 'dig' you need to install dnsutils using the command `apt-get install dnsutils`. Alternatively you can use the command `host measuremap.com localhost`
 
 # dig @localhost measuremap.com
 
