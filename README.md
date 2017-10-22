@@ -61,6 +61,7 @@ address=/media-adrunner.mycomputer.com/0.0.0.0
 Test whether adblocking works by running `dig @localhost measuremap.com`
  Note: To use 'dig' you need to install dnsutils using the command `apt-get install dnsutils`. Alternatively you can use the command `host measuremap.com localhost`
 
+```
 # dig @localhost measuremap.com
 
 ; <<>> DiG 9.7.3 <<>> @localhost measuremap.com
@@ -80,6 +81,7 @@ measuremap.com.         0       IN      A       0.0.0.0
 ;; SERVER: 127.0.0.1#53(127.0.0.1)
 ;; WHEN: Mon Nov 11 23:57:28 2013
 ;; MSG SIZE  rcvd: 48
+```
 
 If you get the value you specified in your script for the pixelserv_ip variable (i.e. 0.0.0.0 in the above example) this means that your dnsmasq is now blocking ad servers
 
