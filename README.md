@@ -4,10 +4,10 @@ https://www.youtube.com/watch?v=KrAwg1inp2E
 
 Readers will learn how to enable ad-blocking on an EdgeRouter. This how-to guide is inspired by  raspberry pi to an adblocking access-point. Here are just a few of the advantages to blocking ads on the router:
 
-You can apply adblocking to all your clients without installing any browser addons
-You can block ads on phone/tablet apps (savings in battery and apps cache)
-Your significant other will be exposed to less advertising without even noticing (resulting to reduced consumerism) Smiley Very Happy
-The approach overrides the DNS servers of well known ad servers. In my script below, I am using a 'safe' list that is known not to block normal surfing.
+* You can apply adblocking to all your clients without installing any browser addons
+* You can block ads on phone/tablet apps (savings in battery and apps cache)
+* Your significant other will be exposed to less advertising without even noticing (resulting to reduced consumerism)
+* The approach overrides the DNS servers of well known ad servers. In my script below, I am using a 'safe' list that is known not to block normal surfing.
 
 The approach doesn't block all ads since it relies only on blocking ad servers and not ads served by the sites themselves, although it works surprisingly well.
 
